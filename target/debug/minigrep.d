@@ -1,0 +1,1 @@
+/Users/devinercolano/Desktop/Code\ Projects/Rust\ Projects/minigrep/target/debug/minigrep: /Users/devinercolano/Desktop/Code\ Projects/Rust\ Projects/minigrep/src/lib.rs /Users/devinercolano/Desktop/Code\ Projects/Rust\ Projects/minigrep/src/main.rs
